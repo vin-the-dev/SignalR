@@ -1,0 +1,11 @@
+D:\Projects\Vineeth Works\SignalR\MoveShape\ChatApp\bin\ChatApp.dll
+D:\Projects\Vineeth Works\SignalR\MoveShape\ChatApp\bin\ChatApp.pdb
+D:\Projects\Vineeth Works\SignalR\MoveShape\ChatApp\bin\Microsoft.AspNet.SignalR.Core.dll
+D:\Projects\Vineeth Works\SignalR\MoveShape\ChatApp\bin\Microsoft.AspNet.SignalR.Owin.dll
+D:\Projects\Vineeth Works\SignalR\MoveShape\ChatApp\bin\Microsoft.AspNet.SignalR.SystemWeb.dll
+D:\Projects\Vineeth Works\SignalR\MoveShape\ChatApp\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\Projects\Vineeth Works\SignalR\MoveShape\ChatApp\bin\Newtonsoft.Json.dll
+D:\Projects\Vineeth Works\SignalR\MoveShape\ChatApp\bin\Owin.dll
+D:\Projects\Vineeth Works\SignalR\MoveShape\ChatApp\obj\Debug\ChatApp.Web.csprojResolveAssemblyReference.cache
+D:\Projects\Vineeth Works\SignalR\MoveShape\ChatApp\obj\Debug\ChatApp.dll
+D:\Projects\Vineeth Works\SignalR\MoveShape\ChatApp\obj\Debug\ChatApp.pdb
